@@ -22,6 +22,6 @@ FLAGS:
     -V, --version    Prints version information
 
 OPTIONS:
-    -c, --cache <cache>      The folder path of where to store cached filels
+    -c, --cache <cache>      The folder path to store cached files [default: <home_dir>/CachingProxy]
     -l, --listen <listen>    The IP and port of the proxy server to listen on [default: 127.0.0.1:8080]
 ```
